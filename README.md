@@ -14,3 +14,5 @@ Project Details:
 Contribution:
 ● IoT Part
 ● Connections of all the sensors with Arduino kits. ○ Arduino Programming.
+
+https://youtu.be/8PDNgE_jzA8
