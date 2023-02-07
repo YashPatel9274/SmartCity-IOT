@@ -11,9 +11,9 @@ Components/Sensors: Arduino (UNO and WeMoS D1R1), Ultrasonic, LDR, Temperature s
 
 Project Details: 
 * A web-based service and an Android app
-* This project illustrates some major ideas and characteristics of smart city. 
-* Characteristics - smart parking management, smart water supply, smart traffic signals, smart street lights, smart air pollution indicator and temperature ensing 
-* It detects soil moisture and automatically starts and stops water supply accordingly.
+* This project illustrates some major ideas and characteristics of a smart city. 
+* Characteristics - smart parking management, smart water supply, smart traffic signals, smart street lights, smart air pollution indicator, and temperature sensing.
+* It detects soil moisture and automatically starts and stops the water supply accordingly.
 * Web-based service shows all the details of sensors and other maintenance details to the admin.
 * Android app is for the citizens showing parking availability, air pollution warnings, no parking zones, etc.
 
